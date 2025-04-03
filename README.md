@@ -1,0 +1,1 @@
+This is a search engine simple project that I did for learning purpose where I have used langchain,langsmith and RAG application. I have used OpenAI Embedding for creating vector embedding and was storing it in FAISS vectordb.
